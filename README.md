@@ -1,4 +1,4 @@
-# Morse Code Cursor 🎵➡️💻
+# Morse Code Cursor 💻➡️🎵
 
 A fun Python project that turns your keyboard/mouse input into Morse code and plays it with sound + cursor interaction. Built with **pygame**.
 
@@ -21,3 +21,4 @@ Make sure you have **Python 3.9+** installed.
    ```bash
    git clone https://github.com/YOUR_USERNAME/morse-code-cursor.git
    cd morse-code-cursor
+
