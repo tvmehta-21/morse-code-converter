@@ -14,11 +14,8 @@ A fun Python project that turns your keyboard/mouse input into Morse code and pl
 ---
 
 ## 🛠️ Installation
-
 Make sure you have **Python 3.9+** installed.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/morse-code-cursor.git
-   cd morse-code-cursor
-
+Install the required Python packages before running:
+```bash
+pip install pygame pynput
